@@ -3,8 +3,7 @@
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorHVeloso&&show_icons=true&theme=react"/>
   <img align="right" height="160em" src="https://github.com/IgorHVeloso/github-readme-stats&layout=compact&langs_count=16&theme=react"/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorHVeloso)](https://github.com/IgorHVeloso/github-readme-stats)
-  )]()
+ 
 </div>
 <br>
 
