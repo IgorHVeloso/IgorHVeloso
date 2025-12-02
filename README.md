@@ -2,7 +2,8 @@
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorHVeloso&&show_icons=true&theme=react"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHVeloso&layout=compact&langs_count=16&theme=react"/>
+  <img align="right" height="160em" src="https://github.com/IgorHVeloso/github-readme-stats&layout=compact&langs_count=16&theme=react"/>
+  )]()
 </div>
 <br>
 
