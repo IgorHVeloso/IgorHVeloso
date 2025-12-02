@@ -3,11 +3,11 @@
 <div>
   <br />
 
-[![Igor's github stats](https://github-readme-stats.vercel.app/api?username=IgorHVeloso&show_icons=true&theme=buefy**&cache=1**)](https://github.com/rodolfomori/github-readme-stats)
+[![Igor's github stats](https://github-readme-stats.vercel.app/api?username=IgorHVeloso&show_icons=true&theme=buefy**&cache=999**)](https://github.com/rodolfomori/github-readme-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHVeloso&layout=compact&show_icons=true&theme=buefy**&cache=1**)](https://github.com/IgorHVeloso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHVeloso&layout=compact&show_icons=true&theme=buefy**&cache=999**)](https://github.com/IgorHVeloso/github-readme-stats)
  
 </div>
 <br>
