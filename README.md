@@ -1,8 +1,13 @@
 ## Welcome to my profile!
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorHVeloso&&show_icons=true&theme=react"/>
-  <img align="right" height="160em" src="https://github.com/IgorHVeloso/github-readme-stats&layout=compact&langs_count=16&theme=react"/>
+  <br />
+
+[![Igor's github stats](https://github-readme-stats.vercel.app/api?username=IgorHVeloso&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHVeloso&layout=compact&show_icons=true&theme=buefy)](https://github.com/IgorHVeloso/github-readme-stats)
  
 </div>
 <br>
