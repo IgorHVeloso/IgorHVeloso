@@ -22,14 +22,14 @@ Apaixonado por tecnologia, criação de projetos e metodologias de qualidade de 
 
 ---
 
-## 🛠 Technologies I'm Learning (Front-end)
+## 🛠 Technologies & Tools I'm Learning
 
 <p align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
 ---
@@ -87,4 +87,30 @@ HTML, CSS e JavaScript
 
 <p align="center">
   <a href="mailto:igor.veloso@outlook.com.br">
-    <img width="40" src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook
+    <img width="40" src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/igor-henrique-veloso-5ba8011a9/">
+    <img width="38" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">
+  </a>
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorHVeloso/IgorHVeloso/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorHVeloso/IgorHVeloso/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IgorHVeloso/IgorHVeloso/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## ⭐ Fun Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coffee-Required-brown?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Coding-Everyday-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/QA-In Progress-yellow?style=for-the-badge">
+</p>
