@@ -66,7 +66,11 @@ Apaixonado por tecnologia, criação de projetos e metodologias de qualidade de 
 ## 📁 Featured Projects
 
 ### 🔹 Conversor de Celsius para Fahrenheit  
-Projeto simples desenvolvido para prática de lógica e manipulação do DOM.  
+Projeto simples desenvolvido para prática de lógica e manipulação do DOM. 
+
+📌 **Tecnologias:**  
+HTML, CSS e JavaScript
+
 👉 **Repositório:**  
 https://github.com/IgorHVeloso/conversor-celsius-fahrenheit
 
@@ -79,7 +83,8 @@ Ideal para quem possui impressora 3D e quer controlar gastos.
 📌 **Tecnologias:**  
 HTML, CSS e JavaScript  
 
-👉 **Repositório:** *(me envie o link quando publicar!)*
+👉 **Repositório:** 
+https://github.com/IgorHVeloso/calculator-3d-cost
 
 ---
 
